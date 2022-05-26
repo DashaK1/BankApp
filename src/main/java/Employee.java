@@ -38,7 +38,7 @@ public abstract class Employee {
     }
 
     public String getPosition() {
-        return position;
+         return position;
     }
 
     public void setPosition(String position) {
